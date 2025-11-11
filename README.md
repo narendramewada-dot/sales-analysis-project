@@ -48,10 +48,11 @@ This project analyzes sales data to find trends, top-performing products, and re
 
 ## 📊 Sample Graphs
 
-![Total Sales by Region](<img width="600" height="600" alt="region wise sales distribution" src="https://github.com/user-attachments/assets/85be78eb-7fef-4fc4-8e3d-b4e530dec35e" />
-)
-![Monthly Sales Trend](<img width="1536" height="754" alt="monthly sales trend" src="https://github.com/user-attachments/assets/1e637859-b840-494c-9259-10a7347b91a1" />
-)
-![Top 5 Products](<img width="800" height="500" alt="top selling product" src="https://github.com/user-attachments/assets/2e2362ec-6c65-42b8-930d-7513f8f2462b" />
-)
+### 🟦 Total Sales by Region
+![Total Sales by Region](https://github.com/user-attachments/assets/85be78eb-7fef-4fc4-8e3d-b4e530dec35e)
 
+### 🟩 Monthly Sales Trend
+![Monthly Sales Trend](https://github.com/user-attachments/assets/1e637859-b840-494c-9259-10a7347b91a1)
+
+### 🟧 Top 5 Products
+![Top 5 Products](https://github.com/user-attachments/assets/2e2362ec-6c65-42b8-930d-7513f8f2462b)
